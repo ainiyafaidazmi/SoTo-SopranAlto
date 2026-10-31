@@ -1,0 +1,42 @@
+html {
+  background-color: #f7f7ef}
+  body {text-align:center; background-color:#f3dde0;}
+.judul {color : #c77d8a}
+.subjudul {color : #d99ba5}
+.filsof {color: #c77d8a}
+.filosofi {color: #d99ba5; border: 3px solid #d99ba5; border-radius: 10px}
+  nav ul { display: flex; flex-direction: row; justify-content: center; gap: 50px; list-style-type: disc; padding: 25px; margin: 0; border: 5px solid #c77d8a}
+  nav li {color: #d99ba5; font-weight: bold}
+  height: 100%;
+ {background color:#f7f7ef}
+  background: 50% 50% no-repeat
+    url('data:image/svg+xml,<svg viewBox="-20 -5 60 40" width="140" xmlns="http://www.w3.org/2000/svg" opacity="0.2"><path d="M1 8l11-7 11 7v8l-11 7-11-7zm0 0l11 8 11-8m0 8L12 8 1 16M12 1v7m0 8v7" fill="none" stroke="currentColor" stroke-linejoin="round" stroke-width="2"/><text x="-12" y="32" font-size="5" font-family="monospace" fill="currentColor">Built on CodePen</text></svg>');
+}
+html {
+  background-color: #f7f7ef}
+  body {text-align:center; background-color:#f3dde0;}
+.judul {color : #c77d8a}
+.subjudul {color : #d99ba5}
+.filsof {color: #c77d8a}
+.filosofi {color: #d99ba5; border: 3px solid #d99ba5; border-radius: 10px}
+  nav ul { display: flex; flex-direction: row; justify-content: center; gap: 50px; list-style-type: disc; padding: 25px; margin: 0; border: 5px solid #c77d8a}
+  nav li {color: #d99ba5; font-weight: bold}
+  height: 100%;
+ {background color:#f7f7ef}
+  background: 50% 50% no-repeat
+    url('data:image/svg+xml,<svg viewBox="-20 -5 60 40" width="140" xmlns="http://www.w3.org/2000/svg" opacity="0.2"><path d="M1 8l11-7 11 7v8l-11 7-11-7zm0 0l11 8 11-8m0 8L12 8 1 16M12 1v7m0 8v7" fill="none" stroke="currentColor" stroke-linejoin="round" stroke-width="2"/><text x="-12" y="32" font-size="5" font-family="monospace" fill="currentColor">Built on CodePen</text></svg>');
+}
+.logo {
+  display: flex;
+  justify-content: center;
+  margin: 15px auto;
+}
+
+.logo img {
+  width: 290px;
+  height: auto;
+  border: 2px solid #c77d8a;
+  border-radius: 8px;
+  padding: 3px;
+  box-sizing: border-box;
+}
